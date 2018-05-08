@@ -3,7 +3,7 @@
 ![Bienvenido Capacitación de Informática](imagenes/lazaro-cardenas-logo.jpg)
 
 
-#  Rene Solis Reyes # Grupo 1111 #Travis [![Build Status](https://travis-ci.org/tectijuana/travistest.svg?branch=master)](https://travis-ci.org/tectijuana/travistest)
+#  Rene Solis Reyes # Grupo 1111 #Travis [![Build Status](https://travis-ci.org/tectijuana/TravisTemplete.svg?branch=master)](https://travis-ci.org/tectijuana/TravisTemplete)
 
 
 ![Compilado y revisado por Travis](imagenes/logo-travisci.jpg)
