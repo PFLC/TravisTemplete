@@ -9,7 +9,7 @@
 ![Compilado y revisado por Travis](imagenes/logo-travisci.jpg)
 # _Nombre_ GRUPO _____  Travis (markdown del Status de su Travis)
 
-Objetivo de practicar programas sencillos de prepa en Python, para ejercitar con mas confianza para el tema de los _cuadernos de Jupyter_
+Objetivo de practicar programas sencillos en Python, para ejercitar con mas confianza para el tema de _cuadernos de Jupyter_
 
 Colocar el emoji de ✅ en la actividad realizada.
 
@@ -19,20 +19,21 @@ Colocar el emoji de ✅ en la actividad realizada.
 [ ] Subir los programas de python
 [ ] Corregir la tabla de practicas
 [ ] Corregir el "travis.ylm" agreado Script a cada uno de los programas
-[ ] 
+[ ] Agregar el Markdown de Travis que muestra esta funcionando en su reporsitorio
+[ ] Estabilizar la corrida de los programas, verificando y correccion
 
 
-| Practica  | Explicación   |
-|----|---------------|
-| 1  |               |
-| 3  |               |
-| 4  |               |
-| 5  |               |
-| 6  |               |
-| 7  |               |
-| 8  |               |
-| 9  |               |
-| 10 |               |
+| Practica  | Explicación   | Verificado |
+|----|---------------|---------------|
+| hello.py |   Despliega Hola Mundo  |
+| 3  |               |               |
+| 4  |               |               |
+| 5  |               |               |
+| 6  |               |               |
+| 7  |               |               |
+| 8  |               |               |
+| 9  |               |               |
+| 10 |               |               |
 
 
 
