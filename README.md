@@ -2,7 +2,7 @@
 
 ![Bienvenido Capacitación de Informática](imagenes/lazaro-cardenas-logo.jpg)
 
-Ejemplo (favor  borrarlo)
+
 #  Rene Solis Reyes # Grupo 1111 #Travis [![Build Status](https://travis-ci.org/tectijuana/travistest.svg?branch=master)](https://travis-ci.org/tectijuana/travistest)
 
 
@@ -11,11 +11,20 @@ Ejemplo (favor  borrarlo)
 
 Objetivo de practicar programas sencillos de prepa en Python, para ejercitar con mas confianza para el tema de los _cuadernos de Jupyter_
 
-Lista de programas.
+Colocar el emoji de ✅ en la actividad realizada.
 
-| 1  | practica .... |
+[ ] Corregir, los encabezados de este documento para que se refleje la actividad original de su parte.
+[ ] Carpeta de IMAGENES subir aquellas que requiera y elazarlas al README.md
+[ ] Agregar links (opcionales)
+[ ] Subir los programas de python
+[ ] Corregir la tabla de practicas
+[ ] Corregir el "travis.ylm" agreado Script a cada uno de los programas
+[ ] 
+
+
+| Practica  | Explicación   |
 |----|---------------|
-| 2  |               |
+| 1  |               |
 | 3  |               |
 | 4  |               |
 | 5  |               |
