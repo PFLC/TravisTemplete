@@ -13,14 +13,22 @@ Objetivo de practicar programas sencillos en Python, para ejercitar con mas conf
 
 Colocar el emoji de ✅ en la actividad realizada.
 
-[ ] Corregir, los encabezados de este documento para que se refleje la actividad original de su parte.
+[ ] Corregir, los encabezados de este documento para que se refleje la actividad original de su parte
+
 [ ] Carpeta de IMAGENES subir aquellas que requiera y elazarlas al README.md
+
 [ ] Agregar links (opcionales)
+
 [ ] Subir los programas de python
+
 [ ] Corregir la tabla de practicas
+
 [ ] Corregir el "travis.ylm" agreado Script a cada uno de los programas
+
 [ ] Agregar el Markdown de Travis que muestra esta funcionando en su reporsitorio
+
 [ ] Estabilizar la corrida de los programas, verificando y correccion
+
 
 
 | Practica  | Explicación   | Verificado |
