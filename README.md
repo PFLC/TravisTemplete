@@ -13,9 +13,9 @@ Objetivo de practicar programas sencillos en Python, para ejercitar con mas conf
 
 Colocar el emoji de ✅ en la actividad realizada.
 
-[ ] Corregir, los encabezados de este documento para que se refleje la actividad original de su parte
+[ ] Corregir, los encabezados de este documento para que se refleje nombre, grupo, etc
 
-[ ] Carpeta de IMAGENES subir aquellas que requiera y elazarlas al README.md
+[ ] Carpeta de IMAGENES subir las requeridas y elazarlas al README.md
 
 [ ] Agregar links (opcionales)
 
@@ -33,7 +33,7 @@ Colocar el emoji de ✅ en la actividad realizada.
 
 | Practica  | Explicación   | Verificado |
 |----|---------------|---------------|
-| hello.py |   Despliega Hola Mundo  |
+| hello.py           |   Despliega Hola Mundo  |    ✅ Funciona     |
 | 3  |               |               |
 | 4  |               |               |
 | 5  |               |               |
